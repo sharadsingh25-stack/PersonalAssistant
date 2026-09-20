@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "sourceId": "local-documents",
+      "sourceType": "Folder",
+      "enabled": true,
+      "settings": {
+        "path": "./Documents",
+        "categoryStrategy": "Folder",
+        "recursive": true
+      }
+    }
+  ]
+}
