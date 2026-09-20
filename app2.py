@@ -16,6 +16,7 @@ config_path = os.getenv(
 )
 
 
+
 configuration_service = ConfigurationService(config_path)
 
 settings = configuration_service.load()
